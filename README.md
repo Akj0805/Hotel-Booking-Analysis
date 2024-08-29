@@ -1,2 +1,2 @@
 # Hotel-Booking-Analysis
-This project analyzes hotel booking data to identify trends and optimize booking strategies. Using Python, it explores booking patterns, cancellations, customer demographics, and seasonal trends to provide insights for better hotel management.
+This project involves analyzing hotel booking data to uncover key insights and trends that can improve booking strategies and customer satisfaction. Using Python and data visualization tools, the analysis covers patterns in booking cancellations, customer demographics, booking lead times, and seasonal trends. The project aims to provide actionable recommendations for optimizing booking rates and enhancing overall hotel management strategies.
